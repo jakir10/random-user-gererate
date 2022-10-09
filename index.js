@@ -14,6 +14,7 @@ app.get('/', (req, res) => {
     res.send('Random user')
 })
 
+// server
 app.listen(port, () => {
     console.log("Random user server is running");
 })
