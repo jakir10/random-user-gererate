@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "name": "Dulquer Salmaan",
+        "gender": "male",
+        "contact": "0132",
+        "address": "telegu",
+        "photoUrl": "https://filmfare.wwmindia.com/content/2020/sep/dulqarsalmaan11599110347.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Deepika Padukone",
+        "gender": "Female",
+        "contact": "01324535",
+        "address": "bollywood",
+        "photoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2OA5iISnRhj38dM8UqVwax4MlYoQUm7Ue3QVWOJMsLLHCMAgws6z7dYNlgFRq8sZcQVE&usqp=CAU"
+    },
+    {
+        "id": 3,
+        "name": "Surya",
+        "gender": "male",
+        "contact": "013234324",
+        "address": "Tamil",
+        "photoUrl": "https://i.zoomtventertainment.com/media/Anjaan.jpeg"
+    },
+    {
+        "id": 4,
+        "name": "Samantha",
+        "gender": "Female",
+        "contact": "0132r343",
+        "address": "Telegu",
+        "photoUrl": "https://www.beautyglimpse.com/wp-content/uploads/2020/05/Side-Fishtail-Plait-e1589450533581.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Kartik Aaryan",
+        "gender": "Male",
+        "contact": "01323434",
+        "address": "bollywood",
+        "photoUrl": "https://i.pinimg.com/564x/53/90/7f/53907faf38fb09e7ed37cdaeacdd2515.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Shruti Hassan",
+        "gender": "Female",
+        "contact": "0132433",
+        "address": "Tamil",
+        "photoUrl": "https://files.prokerala.com/news/photos/imgs/1200/bollywood-actress-shruti-hassan-arrives-to-attend-88294_197486m.jpg"
+    }
+]
